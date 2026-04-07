@@ -162,7 +162,7 @@ Create a `.env` file in the root of your project:
 
 ```env
 PORT=3000
-MONGODB_URI=mongodb://localhost:27017/login_register
+MONGODB_URI="URL EXAMPLE IN MONGODB"
 ```
 
 | Variable | Description | Example |
